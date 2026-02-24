@@ -1,6 +1,5 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/3o7TKTDn4ozRkoZsfC/giphy.gif" width="50px"> 
 
 ## <h1>Olá, eu sou <a href="https://github.com/Vrenxx-lc">Vrenxx-lc</a>! 👋</h1>
 
