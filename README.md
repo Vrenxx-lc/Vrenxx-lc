@@ -5,7 +5,10 @@
 ### 💻 Desenvolvedor Python & Web
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek00082/Abhishek00082/master/assets/Hello.gif" width="150" alt="Olá">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&label=HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&label=CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=JS" />
 </div>
 
 ---
@@ -22,13 +25,6 @@
 
 <div align="center">
 
-### 🐍 Linguagens
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-
-### 🛠️ Ferramentas
 <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -41,8 +37,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/badge/Contribuições-Ativo-3776AB?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Stats](https://img.shields.io/badge/Repositórios-Em%20Desenvolvimento-0078D4?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrenxx-lc&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrenxx-lc&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
