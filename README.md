@@ -3,7 +3,10 @@
 
 ## <h1>Olá, eu sou <a href="https://github.com/Vrenxx-lc">Vrenxx-lc</a>! 👋</h1>
 
-### <img src="https://media.giphy.com/media/LnQjpTWED0hO9XJ6hW/giphy.gif" width="30px"> Desenvolvedor Python & Web Developer
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek00082/Abhishek00082/master/assets/Hello.gif" width="150" alt="Olá">
+  <h3>Desenvolvedor Python & Web Developer</h3>
+</div>
 
 ---
 
