@@ -38,7 +38,7 @@
 <div align="center">
 
 - 💼 **Buscar oportunidades** em desenvolvimento
-- 🚀 **Aprender Full Stack** (Frontend + Backend)
+- 🚀 **Aprender Full Stack** 
 - 🤝 **Colaborar** em projetos open source
 - 📚 **Construir portfólio** sólido
 
