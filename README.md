@@ -160,11 +160,3 @@
 </div>
 
 </div>
-
----
-
-<div align="center">
-  <i>🔥 Code. Learn. Build. Repeat. | <a href="https://github.com/Vrenxx-lc">Visite meu perfil</a></i>
-</div>
-
-</div>
