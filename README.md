@@ -37,8 +37,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrenxx-lc&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrenxx-lc&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://img.shields.io/badge/Contribuições-Ativo-3776AB?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Stats](https://img.shields.io/badge/Repositórios-Em%20Desenvolvimento-0078D4?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
