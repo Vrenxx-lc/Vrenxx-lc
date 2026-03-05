@@ -2,23 +2,23 @@
 
 # 👋 Olá, eu sou o <a href="https://github.com/Vrenxx-lc">Vrenxx-lc</a>!
 
-### 🐍 Python Developer & Web Enthusiast
+### 💻 Desenvolvedor Python & Web
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpTWED0hO9XJ6hW/giphy.gif" width="150" alt="Olá">
+  <img src="https://raw.githubusercontent.com/Abhishek00082/Abhishek00082/master/assets/Hello.gif" width="150" alt="Olá">
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## 🌟 Sobre
 
-> 💻 Desenvolvedor apaixonado por criar soluções eficientes e escaláveis.
-> 🚀 Sempre aprendendo novas tecnologias e melhorando minhas habilidades.
-> 🤝 Aberto a oportunidades e colaborações.
+> 🎯 Focado em criar soluções eficientes e escaláveis
+> 🚀 Em constante evolução técnica
+> 🤝 Aberto a colaborações e oportunidades
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
@@ -32,24 +32,23 @@
 <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrenxx-lc&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrenxx-lc&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrenxx-lc&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📬 Vamos Conversar?
+## 📬 Contato
 
 <div align="center">
 
@@ -65,7 +64,7 @@
 ---
 
 <div align="center">
-  <i>Feito com 💻 e ☕ | <a href="https://github.com/Vrenxx-lc">Visite meu perfil</a></i>
+  <i>🔥 Code. Learn. Build. Repeat. | <a href="https://github.com/Vrenxx-lc">Visite meu perfil</a></i>
 </div>
 
 </div>
