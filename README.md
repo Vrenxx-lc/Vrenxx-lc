@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-![GitHub Stats](https://img.shields.io/badge/Contribuições-Ativo-3776AB?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Stats](https://img.shields.io/badge/Repositórios-Em%20Desenvolvimento-0078D4?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 
 ---
 
