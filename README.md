@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o <a href="https://github.com/Vrenxx-lc">Vrenxx-lc</a>!
+# 👋 Olá, eu sou o <a href="https://github.com/Vrenxx-lc">Vrenxx</a>!
 
 ### 💻 Desenvolvedor Python & Web
 
