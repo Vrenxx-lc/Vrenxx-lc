@@ -11,13 +11,6 @@
 
 ---
 
-## 💻 `whoami`
+## 📇 Perfil
 
-```bash
-$ whoami
-> Vrenxx-lc
-> Status: Estudante de ADS
-> Foco: Full Stack Developer
-> Stack: Python, HTML, CSS, JS, Java
-> Idioma: Inglês Intermediário
-> Objetivo: Criar soluções reais
+<div align="center">
