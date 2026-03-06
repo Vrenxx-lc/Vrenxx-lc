@@ -10,9 +10,7 @@
 ### 🎓 Estudante de ADS | 💻 Dev em Formação | 🚀 Full Stack em Construção
 
 ---
-[![Email](https://img.shields.io/badge/Email-saraiva.lucas13252@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraiva.lucas13252@gmail.com)
 
----
 ## 💻 `console.log("Sobre Mim")`
 
 ```javascript
