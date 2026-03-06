@@ -15,7 +15,7 @@
 
 ```javascript
 const dev = {
-  nome: "Vrenxx-lc",
+  nome: "Vrenxx",
   status: "Estudante de ADS",
   foco: "Full Stack Developer",
   stack: ["Python", "HTML", "CSS", "JS", "Java"],
