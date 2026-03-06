@@ -11,6 +11,14 @@
 
 ---
 
-## 📇 Perfil
+## 💻 `console.log("Sobre Mim")`
 
-<div align="center">
+```javascript
+const dev = {
+  nome: "Vrenxx-lc",
+  status: "Estudante de ADS",
+  foco: "Full Stack Developer",
+  stack: ["Python", "HTML", "CSS", "JS", "Java"],
+  idioma: "Inglês Intermediário",
+  objetivo: "Criar soluções reais e aprender cada dia mais"
+};
