@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o <a href="https://github.com/Vrenxx-lc">Vrenxx</a>!
+# Olá!!👋 Eu sou o <a href="https://github.com/Vrenxx-lc">Vrenxx</a>!
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-3776AB?style=for-the-badge&logo=python&logoColor=white" />
