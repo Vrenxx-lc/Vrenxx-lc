@@ -10,7 +10,15 @@
 ### 🎓 Estudante de ADS | 💻 Dev em Formação | 🚀 Full Stack em Construção
 
 ---
+<div align="center">
+Email
+GitHub
+LinkedIn
 
+</div>
+
+
+---
 ## 💻 `console.log("Sobre Mim")`
 
 ```javascript
