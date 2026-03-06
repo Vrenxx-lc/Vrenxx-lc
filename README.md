@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o <a href="https://github.com/Vrenxx-lc">Vrenxx</a>!!
+# 👋 Olá, eu sou o <a href="https://github.com/Vrenxx-lc">Vrenxx-lc</a>!
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,14 +11,13 @@
 
 ---
 
-## 💻 `console.log("Sobre Mim")`
+## 💻 `whoami`
 
-```javascript
-const dev = {
-  nome: "Vrenxx",
-  status: "Estudante de ADS",
-  foco: "Full Stack Developer",
-  stack: ["Python", "HTML", "CSS", "JS", "Java"],
-  idioma: "Inglês Intermediário",
-  objetivo: "Criar soluções reais e aprender cada dia mais"
-};
+```bash
+$ whoami
+> Vrenxx-lc
+> Status: Estudante de ADS
+> Foco: Full Stack Developer
+> Stack: Python, HTML, CSS, JS, Java
+> Idioma: Inglês Intermediário
+> Objetivo: Criar soluções reais
