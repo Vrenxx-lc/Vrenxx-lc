@@ -10,7 +10,16 @@
 ### 🎓 Estudante de ADS | 💻 Dev em Formação | 🚀 Full Stack em Construção
 
 ---
+## 📬 Vamos Conversar?
 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-saraiva.lucas13252@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraiva.lucas13252@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrenxx-lc)
+
+</div>
+
+---
 ## 💻 `console.log("Sobre Mim")`
 
 ```javascript
