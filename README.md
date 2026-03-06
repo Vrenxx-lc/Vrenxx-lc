@@ -14,7 +14,7 @@
 ## 💻 `console.log("Sobre Mim")`
 
 ```javascript
-   const dev = {
+                                   const dev = {
       nome: "Vrenxx-lc",
      status: "Estudante de ADS",
      foco: "Full Stack Developer",
