@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🎉 Bem-vindo ao meu GitHub!!
+## Olá👋 Bem-vindo ao meu GitHub!!
 
 <div align="center">
 
