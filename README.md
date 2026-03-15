@@ -18,7 +18,7 @@
 const dev = {
   nome: "Vrenxx",
   status: "Estudante de ADS",
-  foco: "Futuro Full Stack Developer",
+  foco: "Dev Backend",
   stack: ["Python", "HTML", "CSS", "JS"],
   idioma: "Inglês Intermediário",
   objetivo: "Criar soluções reais e aprender cada dia mais"
