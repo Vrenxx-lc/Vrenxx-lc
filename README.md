@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Disponível%20para%20Estágio-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
-### 🎓 Estudante de ADS | 💻 Dev em Formação | 🚀 Full Stack em Construção
+### 🎓 Estudante de ADS | 💻 Dev em Formação | 🚀 Dev Backend em Construção
 
 ---
 
